@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-PedidoApplication<pedido>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.example.pedido.PedidoApplication",
+            "projectName": "pedido",
+            "args": ""
+        }
+    ]
+}

@@ -2,10 +2,11 @@ package com.example.pedido.model;
 
 public class Pedido {
     private int codigo;
-    private double valor;
-    private String descricao;
     private String cliente;
+    private String descricao;
     private String data;
+    private double valor;
+    
 
     public int getCodigo() {
         return codigo;

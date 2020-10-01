@@ -26,13 +26,13 @@ public class PedidoRepository {
         p1.setDescricao("Hidromel");
         p1.setValor(35.60);
 
-        p2.setCodigo(1);
+        p2.setCodigo(2);
         p2.setCliente("Ana");
         p2.setData("01/10/2020");
         p2.setDescricao("Armario");
         p2.setValor(350.60);
 
-        p3.setCodigo(1);
+        p3.setCodigo(3);
         p3.setCliente("Paula");
         p3.setData("25/09/2020");
         p3.setDescricao("Pisca Pisca de Natal");
